@@ -1,0 +1,2 @@
+Build path: C:/Users/bicks/Unity Builds/HappyCookingBuilds/WebGL3
+Build number: 3
